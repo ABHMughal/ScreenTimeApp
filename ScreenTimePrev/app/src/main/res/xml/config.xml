@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds"
+    android:accessibilityEventTypes="typeWindowStateChanged"
+    android:canPerformGestures="true"
+    android:canRetrieveWindowContent="true"
+    tools:ignore="UnusedAttribute" />
